@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @magicdecane
-- 👀 I’m interested in Tech, robotics, cryptocurrency and innovation.
-- 🌱 I’m currently learning to code and using git to publish programming, scripts and snippets.
-- 💞️ I’m looking to collaborate on cool projects involving programming.
-- 📫 nettbackup@gmail.com
 
+🔭 I’m currently working with cloud engineering working with Azure governance and compliance. <br>
+⚡ I’m currently writing my MBA master thesis on AI (Artifical intelligence). <br>
+🌱 Studying cloud computing and programming. <br>
+👯 In my spare time I enjoy Music and Music technology. <br> 
